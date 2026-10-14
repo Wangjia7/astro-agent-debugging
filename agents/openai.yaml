@@ -1,0 +1,4 @@
+interface:
+  display_name: "天文 Agent 调试与复盘"
+  short_description: "从真实失败记录定位协议、状态、物理、预算和实验验收问题，设计最小可证伪修复"
+  default_prompt: "使用 $astro-agent-debugging 分析这个问题，定位首个失效环节，并给出最小修复、验证边界和后续排查方向。"
